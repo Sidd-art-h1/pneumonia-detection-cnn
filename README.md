@@ -115,4 +115,3 @@ jupyter notebook Pneumonia_detection.ipynb
 ## Credit & Citations
 - **Dataset Author:** Paul Mooney, [Chest X-Ray Images (Pneumonia) on Kaggle](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia/code)
 - **Clinical Data Source:** Kermany, Daniel; Zhang, Kang; Goldbaum, Michael (2018), *"Labeled Optical Coherence Tomography (OCT) and Chest X-Ray Images for Classification"*, Mendeley Data, V2, doi: [10.17632/rscbjbr9sj.2](https://doi.org/10.17632/rscbjbr9sj.2)
-- **Reference Project:** [inuwamobarak/chest-xray-pneumonia-detection](https://github.com/inuwamobarak/chest-xray-pneumonia-detection)
